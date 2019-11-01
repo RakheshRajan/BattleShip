@@ -1,0 +1,16 @@
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.deps.json
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.runtimeconfig.json
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.runtimeconfig.dev.json
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.dll
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.pdb
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\obj\Debug\netcoreapp2.1\BattleShip.csprojAssemblyReference.cache
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\obj\Debug\netcoreapp2.1\BattleShip.csproj.CoreCompileInputs.cache
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\obj\Debug\netcoreapp2.1\BattleShip.AssemblyInfoInputs.cache
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\obj\Debug\netcoreapp2.1\BattleShip.AssemblyInfo.cs
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\obj\Debug\netcoreapp2.1\BattleShip.dll
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\obj\Debug\netcoreapp2.1\BattleShip.pdb
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.BAL.dll
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.Entity.dll
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.BAL.pdb
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\bin\Debug\netcoreapp2.1\BattleShip.Entity.pdb
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip\obj\Debug\netcoreapp2.1\BattleShip.csproj.CopyComplete
