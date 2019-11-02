@@ -51,7 +51,6 @@ namespace BattleShip.BAL
         public string AddShip(int size, string direction, string name = "System")
         {
             List<Tuple<int, int>> cordinates = new List<Tuple<int, int>>();
-            Tuple<bool, string> returnData;
             CordinateBase cordinateBase;
             ShipDirection shipDirection;
             int index = 0;
@@ -132,7 +131,6 @@ namespace BattleShip.BAL
 
         public string Fire(int xCordinate, int yCordinate, string name = "System")
         {
-            Tuple<bool, string> returnData;
             int index = 0;
             int shipId = 0;
             bool isSung = true;
