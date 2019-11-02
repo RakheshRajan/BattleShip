@@ -51,6 +51,7 @@ namespace BattleShip.BAL
         public string AddShip(int size, string direction, string name = "System")
         {
             List<Tuple<int, int>> cordinates = new List<Tuple<int, int>>();
+            Tuple<bool, string> returnData;
             CordinateBase cordinateBase;
             ShipDirection shipDirection;
             int index = 0;
@@ -69,8 +70,8 @@ namespace BattleShip.BAL
 
             if (!isUserCreated)
             {
-                message = "User not found";
-                return message;
+                CreateUser(name);
+                index = players.Count - 1;
             }
 
             switch (direction)
@@ -95,6 +96,7 @@ namespace BattleShip.BAL
             {
                 Ship ship = new Ship();
                 ship.IsSunk = false;
+                ship.Id = players[index].PlayerBoard.ListShips.Count + 1;
                 ship.ShipDirection = shipDirection;
                 ship.listShipUnit = CreateShipUnits(cordinates);
 
@@ -110,6 +112,7 @@ namespace BattleShip.BAL
             {
                 message = "No units available in the board";
             }
+
             return message;
         }
 
@@ -129,6 +132,7 @@ namespace BattleShip.BAL
 
         public string Fire(int xCordinate, int yCordinate, string name = "System")
         {
+            Tuple<bool, string> returnData;
             int index = 0;
             int shipId = 0;
             bool isSung = true;
@@ -139,6 +143,16 @@ namespace BattleShip.BAL
             {
                 if (p.Name == name)
                 {
+                    if (p.IsGameCompleted)
+                    {
+                        message = "Game is already completed. Please restart the game to continue playing.";
+                        return message;
+                    }
+                    if (p.PlayerBoard.ListShips.Count <= 0)
+                    {
+                        message = "No ships placed in the board.";
+                        return message;
+                    }
                     index = p.Id;
                     foreach (Ship s in p.PlayerBoard.ListShips)
                     {
@@ -146,6 +160,13 @@ namespace BattleShip.BAL
                         {
                             if (su.XCordinate == xCordinate && su.YCordinate == yCordinate)
                             {
+                                shipId = s.Id - 1;
+                                if (su.IsHit)
+                                {
+                                    message = "This unit is already hit.";
+                                    return message;
+                                }
+
                                 su.IsHit = true;
                                 isHit = true;
                                 message = "It is a hit.";
@@ -162,7 +183,7 @@ namespace BattleShip.BAL
             if (isSung)
             {
                 players[index].PlayerBoard.ListShips[shipId].IsSunk = true;
-                message += " 1 Ship has been sung.";
+                message += " 1 Ship has been sunk.";
             }
 
             foreach (Ship s in players[index].PlayerBoard.ListShips)
@@ -171,11 +192,12 @@ namespace BattleShip.BAL
             }
 
             if (isWon)
-                message += " All battleships are sung. Congratulations you have won the game.";
-
+            {
+                players[index].IsGameCompleted = true;
+                message += " All battleships are sunk. Congratulations you have won the game.";
+            }
             if (!isHit)
                 message = "It is a miss hit.";
-
             return message;
         }
     }

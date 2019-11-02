@@ -1,0 +1,14 @@
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\bin\Release\netcoreapp2.1\WebApplication1.deps.json
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\bin\Release\netcoreapp2.1\WebApplication1.runtimeconfig.json
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\bin\Release\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\bin\Release\netcoreapp2.1\WebApplication1.dll
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\bin\Release\netcoreapp2.1\WebApplication1.pdb
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.dll
+G:\Development\BattleShipStateTracker\BattleShip\WebApplication1\obj\Release\netcoreapp2.1\WebApplication1.pdb

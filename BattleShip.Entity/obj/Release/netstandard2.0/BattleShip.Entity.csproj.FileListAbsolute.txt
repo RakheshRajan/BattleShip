@@ -1,0 +1,9 @@
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\bin\Release\netstandard2.0\BattleShip.Entity.deps.json
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\bin\Release\netstandard2.0\BattleShip.Entity.dll
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\bin\Release\netstandard2.0\BattleShip.Entity.pdb
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Release\netstandard2.0\BattleShip.Entity.csprojAssemblyReference.cache
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Release\netstandard2.0\BattleShip.Entity.csproj.CoreCompileInputs.cache
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Release\netstandard2.0\BattleShip.Entity.AssemblyInfoInputs.cache
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Release\netstandard2.0\BattleShip.Entity.AssemblyInfo.cs
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Release\netstandard2.0\BattleShip.Entity.dll
+G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Release\netstandard2.0\BattleShip.Entity.pdb
