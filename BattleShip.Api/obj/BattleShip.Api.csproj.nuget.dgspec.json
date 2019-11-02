@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj": {}
+    "G:\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj": {}
   },
   "projects": {
-    "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj": {
+    "G:\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
+        "projectUniqueName": "G:\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
         "projectName": "BattleShip.Api",
-        "projectPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
+        "projectPath": "G:\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Api\\obj\\",
+        "outputPath": "G:\\BattleShip\\BattleShip.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj": {
-                "projectPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj"
+              "G:\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj": {
+                "projectPath": "G:\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj": {
+    "G:\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj",
+        "projectUniqueName": "G:\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj",
         "projectName": "BattleShip.BAL",
-        "projectPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj",
+        "projectPath": "G:\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.BAL\\obj\\",
+        "outputPath": "G:\\BattleShip\\BattleShip.BAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -100,8 +100,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {
-                "projectPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj"
+              "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {
+                "projectPath": "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {
+    "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
+        "projectUniqueName": "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
         "projectName": "BattleShip.Entity",
-        "projectPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
+        "projectPath": "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Development\\BattleShipStateTracker\\BattleShip\\BattleShip.Entity\\obj\\",
+        "outputPath": "G:\\BattleShip\\BattleShip.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

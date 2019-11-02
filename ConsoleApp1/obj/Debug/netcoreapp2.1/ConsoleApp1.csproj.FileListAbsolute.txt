@@ -1,0 +1,16 @@
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\BattleShip.BAL.dll
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\BattleShip.Entity.dll
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\BattleShip.BAL.pdb
+G:\BattleShip\ConsoleApp1\bin\Debug\netcoreapp2.1\BattleShip.Entity.pdb
+G:\BattleShip\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+G:\BattleShip\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\BattleShip\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+G:\BattleShip\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+G:\BattleShip\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete
+G:\BattleShip\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+G:\BattleShip\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

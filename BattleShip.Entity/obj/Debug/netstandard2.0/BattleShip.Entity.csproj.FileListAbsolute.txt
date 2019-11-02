@@ -7,3 +7,11 @@ G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Debug\net
 G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.AssemblyInfo.cs
 G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.dll
 G:\Development\BattleShipStateTracker\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.pdb
+G:\BattleShip\BattleShip.Entity\bin\Debug\netstandard2.0\BattleShip.Entity.deps.json
+G:\BattleShip\BattleShip.Entity\bin\Debug\netstandard2.0\BattleShip.Entity.dll
+G:\BattleShip\BattleShip.Entity\bin\Debug\netstandard2.0\BattleShip.Entity.pdb
+G:\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.csproj.CoreCompileInputs.cache
+G:\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.AssemblyInfoInputs.cache
+G:\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.AssemblyInfo.cs
+G:\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.dll
+G:\BattleShip\BattleShip.Entity\obj\Debug\netstandard2.0\BattleShip.Entity.pdb

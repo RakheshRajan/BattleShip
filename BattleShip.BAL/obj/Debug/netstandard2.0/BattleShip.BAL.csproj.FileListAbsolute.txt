@@ -10,3 +10,15 @@ G:\Development\BattleShipStateTracker\BattleShip\BattleShip.BAL\bin\Debug\netsta
 G:\Development\BattleShipStateTracker\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.csproj.CopyComplete
 G:\Development\BattleShipStateTracker\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.dll
 G:\Development\BattleShipStateTracker\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.pdb
+G:\BattleShip\BattleShip.BAL\bin\Debug\netstandard2.0\BattleShip.BAL.deps.json
+G:\BattleShip\BattleShip.BAL\bin\Debug\netstandard2.0\BattleShip.BAL.dll
+G:\BattleShip\BattleShip.BAL\bin\Debug\netstandard2.0\BattleShip.BAL.pdb
+G:\BattleShip\BattleShip.BAL\bin\Debug\netstandard2.0\BattleShip.Entity.dll
+G:\BattleShip\BattleShip.BAL\bin\Debug\netstandard2.0\BattleShip.Entity.pdb
+G:\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.csprojAssemblyReference.cache
+G:\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.csproj.CoreCompileInputs.cache
+G:\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.AssemblyInfoInputs.cache
+G:\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.AssemblyInfo.cs
+G:\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.csproj.CopyComplete
+G:\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.dll
+G:\BattleShip\BattleShip.BAL\obj\Debug\netstandard2.0\BattleShip.BAL.pdb
