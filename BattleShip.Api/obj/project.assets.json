@@ -11840,11 +11840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
+      "projectUniqueName": "G:\\B\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
       "projectName": "BattleShip.Api",
-      "projectPath": "G:\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
+      "projectPath": "G:\\B\\BattleShip\\BattleShip.Api\\BattleShip.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\BattleShip\\BattleShip.Api\\obj\\",
+      "outputPath": "G:\\B\\BattleShip\\BattleShip.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -11865,8 +11865,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "G:\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj": {
-              "projectPath": "G:\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj"
+            "G:\\B\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj": {
+              "projectPath": "G:\\B\\BattleShip\\BattleShip.BAL\\BattleShip.BAL.csproj"
             }
           }
         }

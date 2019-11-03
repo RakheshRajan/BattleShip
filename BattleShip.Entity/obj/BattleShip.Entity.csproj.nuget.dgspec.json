@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {}
+    "G:\\B\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {}
   },
   "projects": {
-    "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {
+    "G:\\B\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
+        "projectUniqueName": "G:\\B\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
         "projectName": "BattleShip.Entity",
-        "projectPath": "G:\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
+        "projectPath": "G:\\B\\BattleShip\\BattleShip.Entity\\BattleShip.Entity.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\BattleShip\\BattleShip.Entity\\obj\\",
+        "outputPath": "G:\\B\\BattleShip\\BattleShip.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -25,7 +25,14 @@ namespace BattleShip.Api.Controllers
         {
             return new string[] { "This is a test method", "This is a test method" };
         }
-
+        /// <summary>
+        /// This method is to add a ship to the avialable cordinates based on the size requested. Ship will be allocated 
+        /// under the system user if user name is not passed else it will be allocated under the passed user name.
+        /// </summary>
+        /// <param name="size">number of units the ship should be occuping</param>
+        /// <param name="direction">parallel/horizontal</param>
+        /// <param name="name">User Name</param>
+        /// <returns></returns>
         // POST api/values
         [HttpPost("CreateShip/{size}/{direction}")]
         [HttpPost("CreateShip/{size}/{direction}/{name}")]
@@ -53,6 +60,13 @@ namespace BattleShip.Api.Controllers
             return message;
         }
 
+        /// <summary>
+        /// Fire at the cordinates of users board. User Name if not passed, system user's board will be taken by default.
+        /// </summary>
+        /// <param name="x"> X Cordinate</param>
+        /// <param name="y">Y Cordinate</param>
+        /// <param name="playerName">User Name</param>
+        /// <returns></returns>
         // POST api/values
         [HttpPost("Fire/{x}/{y}")]
         [HttpPost("Fire/{x}/{y}/{playerName}")]
@@ -71,7 +85,10 @@ namespace BattleShip.Api.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, new { message = ex.Message });
             }
         }
-
+        /// <summary>
+        /// Restart the game for all users
+        /// </summary>
+        /// <returns></returns>
         [HttpPost("RestartGame")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
