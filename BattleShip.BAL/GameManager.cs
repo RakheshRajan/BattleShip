@@ -43,11 +43,13 @@ namespace BattleShip.BAL
         }
 
         /// <summary>
-        /// 
+        /// This method is to add a ship to the avialable cordinates based on the size requested. Ship will be allocated 
+        /// under the system user if user name is not passed else it will be allocated under the passed user name.
         /// </summary>
         /// <param name="size">how many units the ship is going to Occupy</param>
         /// <param name="direction">Parallel or Horizontal alignment?</param>
         /// <param name="name">Name of the player. If not specified it will add ship to the default player.</param>
+
         public string AddShip(int size, string direction, string name = "System")
         {
             List<Tuple<int, int>> cordinates = new List<Tuple<int, int>>();
@@ -128,7 +130,13 @@ namespace BattleShip.BAL
             }
             return listShipUnits;
         }
-
+        /// <summary>
+        /// Fire at the cordinates of users board. User Name if not passed, system user's board will be taken by default.
+        /// </summary>
+        /// <param name="xCordinate"> X Cordinate</param>
+        /// <param name="yCordinate">Y Cordinate</param>
+        /// <param name="name">User Name</param>
+        /// <returns></returns>
         public string Fire(int xCordinate, int yCordinate, string name = "System")
         {
             int index = 0;
